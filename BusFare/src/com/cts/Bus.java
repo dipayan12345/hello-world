@@ -22,7 +22,7 @@ public class Bus {
 		  DateFormat format2=new SimpleDateFormat("EEEE"); 
 		  String finalDay=format2.format(dt1);
 		System.out.println(finalDay);
-		
+		System.out.println("Git integrated");
 		
 		
 		
